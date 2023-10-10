@@ -9,45 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Aula29MVCDB
 build_property.RootNamespace = Aula29MVCDB
-build_property.ProjectDir = /home/estudante1/Aula29MVCDB/
+build_property.ProjectDir = /home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/estudante1/Aula29MVCDB
+build_property.MSBuildProjectDirectory = /home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/estudante1/Aula29MVCDB/Views/Cliente/index.cshtml]
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Cliente/CreateResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9DcmVhdGVSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Cliente/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9pbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante1/Aula29MVCDB/Views/Home/Index.cshtml]
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Cliente/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9TaG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Cliente/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9VcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Cliente/UpdateResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50ZS9VcGRhdGVSZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante1/Aula29MVCDB/Views/Home/Privacy.cshtml]
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante1/Aula29MVCDB/Views/Pedido/Index.cshtml]
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Pedido/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Pedido/CreateResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL0NyZWF0ZVJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Pedido/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Pedido/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante1/Aula29MVCDB/Views/Shared/Error.cshtml]
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Pedido/Show.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL1Nob3cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Pedido/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL1VwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Pedido/UpdateResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVkaWRvL1VwZGF0ZVJlc3VsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante1/Aula29MVCDB/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante1/Aula29MVCDB/Views/_ViewImports.cshtml]
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante1/Aula29MVCDB/Views/_ViewStart.cshtml]
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante1/Aula29MVCDB/Views/Shared/_Layout.cshtml]
+[/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-lvnhuddmuq

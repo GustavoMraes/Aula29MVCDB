@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/estudante1/Aula29MVCDB/Aula29MVCDB.csproj": {}
+    "/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Aula29MVCDB.csproj": {}
   },
   "projects": {
-    "/home/estudante1/Aula29MVCDB/Aula29MVCDB.csproj": {
+    "/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Aula29MVCDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/estudante1/Aula29MVCDB/Aula29MVCDB.csproj",
+        "projectUniqueName": "/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Aula29MVCDB.csproj",
         "projectName": "Aula29MVCDB",
-        "projectPath": "/home/estudante1/Aula29MVCDB/Aula29MVCDB.csproj",
+        "projectPath": "/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/Aula29MVCDB.csproj",
         "packagesPath": "/home/estudante1/.nuget/packages/",
-        "outputPath": "/home/estudante1/Aula29MVCDB/obj/",
+        "outputPath": "/home/estudante1/Sp3072037/PROVA LP3/Aula29MVCDB/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/estudante1/.nuget/NuGet/NuGet.Config"
