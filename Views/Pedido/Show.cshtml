@@ -6,12 +6,12 @@
 }
 <h1>@ViewData["Title"]</h1>
 
-<p><b>ID Pedido:</b> @pedido.PedidoId</p>
-<p><b>ID Empregado</b> @pedido.EmpregadoId</p>
-<p><b></b> @pedido.DataPedido</p>
-<p><b></b> @pedido.Peso</p>
-<p><b></b> @pedido.CodTransportadora</p>
-<p><b></b> @pedido.PedidoClienteId</p>
+<p><b>ID Pedido:</b> @Model.PedidoId</p>
+<p><b>ID Empregado</b> @Model.EmpregadoId</p>
+<p><b></b> @Model.DataPedido</p>
+<p><b></b> @Model.Peso</p>
+<p><b></b> @Model.CodTransportadora</p>
+<p><b></b> @Model.PedidoClienteId</p>
 
  <a href="/Pedido/Show/@Model.PedidoId">
     <button type="button">Detalhes</button>
