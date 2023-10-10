@@ -1,7 +1,12 @@
+    using Microsoft.EntityFrameworkCore;
+    using Aula29MVCDB.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDbContext<MvcDBContext>(options => options.UseSqlite("Data Source=Aula29Database.db")); 
 
 var app = builder.Build();
 
