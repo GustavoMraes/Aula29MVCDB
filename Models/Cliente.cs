@@ -16,6 +16,7 @@ public class Cliente
     {
         Id = id;
         Endereco = endereco;
+        Cidade = cidade;
         Regiao = regiao;
         CodigoPostal = codigoPostal;
         Pais = pais;

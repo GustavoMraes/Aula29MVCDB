@@ -1,4 +1,3 @@
-
 using Microsoft.AspNetCore.Mvc;
 using Aula29MVCDB.Models;
 namespace Aula29MVCDB.Controllers;
@@ -32,11 +31,11 @@ public class ClienteController : Controller
         return View();
     }
 
-    public IActionResult CreateResult(int clienteId, string endereco, string cidade, string regiao, string codigoPostal, string pais, string telefone)
+    public IActionResult CreateResult(int id, string endereco, string cidade, string regiao, string codigoPostal, string pais, string telefone)
     {
-        if(_context.Clientes.Find(clienteId) == null)
+        if(_context.Clientes.Find(id) == null)
         {
-            _context.Clientes.Add(new Cliente(clienteId, endereco, cidade, regiao, codigoPostal, pais, telefone));
+            _context.Clientes.Add(new Cliente(id, endereco, cidade, regiao, codigoPostal, pais, telefone));
             _context.SaveChanges();
             return RedirectToAction("Create");
         }
